@@ -17,7 +17,7 @@ env:
   UPSTREAM_REPO: D3W10/SneakrVault
   UPSTREAM_BRANCH: main
   BASE_BRANCH: main
-  SYNC_BRANCH: upstream-sync-main
+  SYNC_BRANCH: upstream
 
 jobs:
   sync:
