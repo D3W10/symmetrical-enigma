@@ -13,7 +13,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  UPSTREAM_REPO: your-org/your-upstream-repo
+  UPSTREAM_REPO: D3W10/SneakrVault
   UPSTREAM_BRANCH: main
   BASE_BRANCH: main
 
